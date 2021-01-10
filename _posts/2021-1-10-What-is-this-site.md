@@ -1,5 +1,5 @@
 ---
-title: Jekyll Install
+title: What is this site
 author: Nick French
 date: 2021-01-10 16:23:00 +1100
 categories: [Blogging]
