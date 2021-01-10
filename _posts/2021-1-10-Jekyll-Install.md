@@ -9,8 +9,6 @@ layout: post
 
 # What is this site and what to expect? The classic "Hello World" blog post
 ---
-## Published by Nick French on 2021-01-10 16:23:00 +1100
----
 This Github site is going to be used to publish devblogs on current projects and things I've learnt with various programming languages.
 
 Having just completed an extensive C# class at Uni, I wanted to put those skills to the test by learning Unity.
