@@ -28,7 +28,7 @@ twitter:
   username:             # change to your twitter username
 
 social:
-  name:                   # it will shows as the copyright owner in Footer
+  name:  Nick French                 # it will shows as the copyright owner in Footer
   email: example@doamin.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
